@@ -1,0 +1,22 @@
+
+body{
+    background: #fff786;
+}
+.f{
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+}
+.f input{
+    border-radius: 1em;
+    display: block;
+    width: 240px;
+    height:40px;
+}
+
+.f textarea{
+    border-radius: 1em;
+    display: block;
+    height:100px;
+    width: 240px;
+}
